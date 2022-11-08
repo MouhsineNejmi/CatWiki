@@ -11,6 +11,15 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #291507;
+  border-radius: 9999px;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -20,4 +29,8 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.font-mystery {
+  font-family: 'Mystery Quest', cursive;
 }

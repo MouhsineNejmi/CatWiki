@@ -1,6 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
-import { ReactComponent as CatwikiLogo } from '../images/CatwikiLogo.svg'
+import { Link } from 'react-router-dom';
+import { ReactComponent as CatwikiLogo } from '../images/CatwikiLogo.svg';
 
 const Navbar = () => {
   return (
